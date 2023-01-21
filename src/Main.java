@@ -44,7 +44,7 @@
 
             public static void task4() {
                 System.out.println("Задача 4");
-                int age = 20;
+                int age = 5;
                 boolean kindergarten = age >= 2 && age <=6;
                 if (kindergarten){
                     System.out.println("Если возраст человека равен " + age + " , то ему нужно ходить в детский сад");}
@@ -86,9 +86,9 @@
 
                 public static void task7() {
                     System.out.println("Задача 7");
-                    int one = 0;
-                    int two = -2;
-                    int three = -6;
+                    int one = -10;
+                    int two = -5;
+                    int three = -1;
                     if (one > two && one > three){
                         System.out.println("Большее число " + one + "");}
                     else if (two > one && two > three) {
@@ -96,8 +96,32 @@
                     else {
                         System.out.println("Большее число " + three + "");}
 
+
                         }
                     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
